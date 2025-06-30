@@ -1,0 +1,24 @@
+# Dependencies
+/node_modules
+
+# Build output
+/dist
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+
+# Local development secrets
+.env
+.env.local
+
+# IDEs & OS files
+.vscode
+.idea
+.DS_Store
+
+# Python cache
+__pycache__/
+
+# SQLite Database
+database.db
